@@ -1,0 +1,11 @@
+# local working files that stay out of the submission
+study_guide/
+statement.md
+statement_files/
+
+# tooling
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.idea/
+.DS_Store
